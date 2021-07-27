@@ -23,7 +23,7 @@ Most of the columns names are professional medical terms. Here is the list for b
 ![corre](images/excel_terms.png)
 \
 <br>
-Corelation matrix shows the features aren't correlated much.
+Corelation matrix shows that HIV incidences isn't correlated much with other features.
 ![excel](images/corr_matrix.png)
 \
 <br>
