@@ -4,7 +4,7 @@
 ## Forecasting-HIV-Infections Case Study
 ## Goal
 
-* Figure out what are some most significant drivers of HIV infection in the US counties
+* Detecting the most significant drivers of HIV infection in the US counties
 
 ## Dataset
 We used the merged dataset to explore the data: it has 3140 rows x 39 columns. Year of 2015.
