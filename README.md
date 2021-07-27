@@ -23,7 +23,7 @@ Most of the columns names are professional medical terms. We created an excel fi
 ![corre](images/excel_terms.png)
 \
 <br>
-We got a corelation matrix but it's not very helpful
+Corelation matrix shows the features aren't correlated much.
 ![excel](images/corr_matrix.png)
 \
 <br>
