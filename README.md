@@ -1,15 +1,14 @@
 # HIV_Forecast
 
 ![HIV](https://jnj-content-lab.brightspotcdn.com/dims4/default/a9f7870/2147483647/strip/true/crop/1460x675+244+171/resize/1440x666!/quality/90/?url=http%3A%2F%2Fjnj-brightspot.s3.amazonaws.com%2Ff8%2F56%2F4fbea63b4e529c48f4ed7ea9225b%2Fhiv-aids-lede-v2.png)
-# Forecasting-HIV-Infections Case Study
-# Primary
+## Forecasting-HIV-Infections Case Study
+## Goal
 
-* Figure out what are some most significant drivers of HIV infection 
-* What machine learning models to choose
-* Next Step
-# Dataset
+* Figure out what are some most significant drivers of HIV infection in the US counties
+
+## Dataset
 We used the merged dataset to explore the data: it has 3140 rows x 39 columns. Year of 2015.
-# Features Choosing 
+## Features Choosing 
 Most of the columns names are professional medical terms. We created an excel file for a better understanding.
 \
 <br>
@@ -99,4 +98,4 @@ Out of all the 3 we got the best results with OLS where the R-Squared was 0.63, 
 - Removing rows where HIV data was suppressed resulted in over 70% reduction in usable data.
 - Better HIV Collection Statistics
 - More accurate HIV collection data could expand counties explored, specifically greater than ~750.
-- Including valid hotspots/outbreaks | ie. Scott County Indiana and likewise.
+- Include valid hotspots/outbreaks | ie. Scott County Indiana and likewise.
