@@ -17,7 +17,7 @@ A model that can accurately forecast regional HIV infection rates would be benef
 ## Dataset
 Merged dataset of 3140 rows x 39 columns. Year of 2015.
 ## Features Choosing 
-Most of the columns names are professional medical terms. We created an excel file for a better understanding.
+Most of the columns names are professional medical terms. Here is the list for better understanding.
 \
 <br>
 ![corre](images/excel_terms.png)
